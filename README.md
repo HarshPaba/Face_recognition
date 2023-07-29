@@ -1,1 +1,1 @@
-# Face_recognition
+# Face recognition based attendance system
