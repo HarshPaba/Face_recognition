@@ -4,7 +4,7 @@ import face_recognition
 import os
 from datetime import datetime
  
-path = r'C:\Users\DELL\Desktop\AI\ai_appln\computer-vision\face-recognition\images'
+path = r'./images'
 images = []
 classNames = []
 myList = os.listdir(path)
